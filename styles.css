@@ -1,0 +1,24 @@
+textarea 
+        {
+            width: 200;
+            height: 8vh;
+            padding: 1rem 2rem;
+            display: block;
+            margin: 1rem auto; 
+        }
+ body{
+     background-image : url("/images/german.jpeg");  
+    background-repeat: no-repeat;
+     text-align : center;
+     background-size: cover;
+
+
+    
+ }
+ button{
+     background-color: red ;
+
+     padding: 1rem 1rem;
+
+     
+ }
